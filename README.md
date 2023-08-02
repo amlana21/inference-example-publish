@@ -1,1 +1,1 @@
-# inference-example-publish
+# Navigating the Path of AI Inference by examples: Unveiling the Distinctions between Zero-Shot, One-Shot, and Few-Shot inference technique for LLMs 
